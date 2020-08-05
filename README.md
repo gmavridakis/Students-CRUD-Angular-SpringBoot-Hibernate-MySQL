@@ -7,11 +7,26 @@ Database: MySQL
 Frontend: Angular7  
 
 # Example APIs (CRUD)  
-POST: http://localhost:8080/api/save-student  
-GET: http://localhost:8080/api/students-list  
-POST: http://localhost:8080/api/update-student/3   
-DELETE: http://localhost:8080/api/delete-student/6  
+(C)POST: http://localhost:8080/api/save-student  
+![POSTMAN](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/postman.png)  
+![CREATE](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/create1.png)  
+![CREATE](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/create2.png)  
 
+(R)GET: http://localhost:8080/api/students-list  
+![VIEW](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/list.png)  
+
+(U)POST: http://localhost:8080/api/update-student/3   
+![UPDATE](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/update1.png)  
+![UPDATE](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/update2.png)  
+
+(D)DELETE: http://localhost:8080/api/delete-student/6  
+![DELETE](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/delete.png)  
+
+# Database Screenshot
+![DB](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/db.png)  
+
+# SpringBoot Project Structure
+![Backend-Structure](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/backstructure.png)  
 
 # Related Documentation  
 Based on javatpoint [project](https://www.javatpoint.com/angular-spring-crud-example)
