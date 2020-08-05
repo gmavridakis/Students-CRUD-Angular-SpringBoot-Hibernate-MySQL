@@ -28,5 +28,9 @@ Frontend: Angular7
 # SpringBoot Project Structure
 ![Backend-Structure](https://github.com/gmavridakis/Students-CRUD-Angular-SpringBoot-Hibernate-MySQL/blob/master/Resources/backstructure.png)  
 
-# Related Documentation  
+# Why Hibernate?  
+Hibernate ORM (Hibernate in short) is an object-relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database.  
+
+# Related Documentation
+Hibernate Explantion [link](https://www.youtube.com/watch?v=eFTnd4C0NWU)
 Based on javatpoint [project](https://www.javatpoint.com/angular-spring-crud-example)
